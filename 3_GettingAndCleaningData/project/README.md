@@ -1,4 +1,4 @@
-# -datasciencecoursera
+# datasciencecoursera
 # Getting and Cleaning Data Project
 
 ## Goal of the Project
